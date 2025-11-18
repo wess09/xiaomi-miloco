@@ -46,6 +46,7 @@ NVIDIA Container Toolkit: For Docker GPU support
 ### Install
 
 > **Note**: Please ensure your system meets the above hardware and software requirements. Windows systems need to enter the WSL environment.
+
 > If you are using Windows WSL, please also refer to the [WSL Deployment Notes](docs/deploy_for_wsl/wsl_deploy_en.md).
 
 **Install with Docker**  
